@@ -1,9 +1,10 @@
-### Hi there 👋 I'm Rebecca!
-- 🔭 I’m currently working on a book lending application (Mybrary Books)
-- 🌱 I’m currently learning React!
+### Hi there 👋 I'm Rebecca! (she/her)
+- :mortar_board: I recently graduated from [LaunchCode's JavaScript/Java Web Development](https://www.launchcode.org/course-catalog/web-development-java#description) program.
+- :computer: I’m currently working on a book lending application (Mybrary Books)
+- :books: I’m currently learning React while also taking professional certificate courses with Coursera (Google UX Design, Meta Front-End Developer).
 - 👯 I’m looking to collaborate on Web Development projects
-- 📫 How to reach me: rderbak@gmail.com
-- 😄 Pronouns: she/her
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rebecca-derbak/) or email: rderbak@gmail.com
+
 
 
 <!--
